@@ -1,0 +1,12 @@
+.imp{
+    color: red;
+}
+
+#secret :hover{
+    color: red; 
+}
+
+#secret a{
+    color: black;
+}
+
