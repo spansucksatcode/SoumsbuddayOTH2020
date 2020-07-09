@@ -1,10 +1,15 @@
 .full {
     width: 100%;
-    height: 100%;
+    min-height: 100vh;
     background-color: black;
     text-align: center;
     color: white;
     font-family: "Courier Prime";
+}
+
+.text {
+    padding-top: 100px;
+    padding-bottom: 75px;
 }
 
 .imp {
@@ -15,14 +20,10 @@
     color: white;
 }
 
-#secret a {
-    color: white;
-}
-
 #secret :hover {
     color: red;
 }
 
-a {
+a :hover {
     color: red;
 }
