@@ -1,12 +1,28 @@
-.imp{
+.full {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: "Courier Prime";
+}
+
+.imp {
     color: red;
 }
 
-#secret :hover{
-    color: red; 
+#secret a {
+    color: white;
 }
 
-#secret a{
-    color: black;
+#secret a {
+    color: white;
 }
 
+#secret :hover {
+    color: red;
+}
+
+a {
+    color: red;
+}
